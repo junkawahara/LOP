@@ -10,11 +10,11 @@ This site is under construction.
 
 ## figure
 
-[The longest oneway-ticket route](https://github.com/junkawahara/LOP/LOP.pdf)
+[The longest oneway-ticket route](https://github.com/junkawahara/LOP/blob/master/lop.pdf)
 
 ## dataset
 
-The JR train line data set is available at http://www.swa.gr.jp/ and http://ekidata.jp/.
+The JR train line data sets are available at http://www.swa.gr.jp/ and http://ekidata.jp/. (I will explain the detail...)
 
 ## Acknowledgment
 
